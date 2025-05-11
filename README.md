@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<h3 align="center">my github stats:</h3>
+<p align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxcvisverycool1828&layout=compact&langs_count=8" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=zxcvisverycool1828" />
+  </a>
+</p> 
+
 <!--
 **zxcvisverycool1828/zxcvisverycool1828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
